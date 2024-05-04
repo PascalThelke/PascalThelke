@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PascalThelke
 - 👀 I’m interested in programming and gaming
 - 🌱 I’m currently learning HTML/CSS/JavaScript/Angular/TypeScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new project to envolve even further
 - 📫 How to reach me: kontakt@pascal-thelke.de
 
 <!---
